@@ -10,6 +10,6 @@ Anyhow, this was inspired by the Gosper Curve and Gosper Island concepts
 [Gosper Curve](https://en.wikipedia.org/wiki/Gosper_curve) wiki article and
 [Hierarchical Hexagonal Clustering and Indexing](doc/HeirarchicalHexagons.pdf)
 
-Here's one idea about how to subdivide a hexegon and pentagon tile
+Here's one idea about how to subdivide hexagon and pentagon tiles
 ![Figure illustrating how to divie a hexagon into 49 smaller hexagons, and a 
 pentagon into 40 smaller hexagons + 1 smaller pentagon](doc/hexglobe_tiles.png)
